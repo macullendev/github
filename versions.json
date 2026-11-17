@@ -1,0 +1,26 @@
+{
+  "azurite_blips": {
+    "version": "1.0.0",
+    "changelog": [
+      "Initial release"
+    ]
+  },
+  "azurite_business": {
+    "version": "1.0.0",
+    "changelog": [
+      "Initial release"
+    ]
+  },
+  "azurite_drugs": {
+    "version": "1.0.0",
+    "changelog": [
+      "Initial release"
+    ]
+  },
+  "azurite_restaurant": {
+    "version": "1.0.0",
+    "changelog": [
+      "Initial release"
+    ]
+  }
+}
